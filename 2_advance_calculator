@@ -1,3 +1,6 @@
+# Output test
+# Ryo
+
 # 1. Input
 x1 = input("Enter x1: ")
 x2 = input("Enter x2: ")
