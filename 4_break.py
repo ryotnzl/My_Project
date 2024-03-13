@@ -1,5 +1,5 @@
 #
-# While test
+# Break test
 # Ryo
 #
 
@@ -21,3 +21,7 @@ while True:
     else:
         print("Invalid")
         continue
+
+    choice = input("Continue? (Yes/No)")
+    if choice == "No":
+        break
